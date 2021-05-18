@@ -3,3 +3,5 @@ test.csv
 train.csv
 submission.csv
 sample_submission.csv
+.DS_Store
+.ipynb_checkpoints/
